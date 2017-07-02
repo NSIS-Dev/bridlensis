@@ -2,7 +2,7 @@
 
 BridleNSIS is a language extension for NSIS (Nullsoft Scriptable Install System) designed to make things easier to express and rein in verbosity of NSIS at places.
 
-Latest version: [0.3.0](https://github.com/NSIS-Dev/bridlensis/releases/download/v0.2.0/BridleNSIS-0.2.0.exe)
+Latest version: [0.3.0](https://github.com/NSIS-Dev/bridlensis/releases/download/v0.3.0/BridleNSIS-0.3.0.exe)
 
 ## Build From Source Code
 
